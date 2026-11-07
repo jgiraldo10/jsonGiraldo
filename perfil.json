@@ -1,0 +1,11 @@
+{
+  "nombre": "julian",
+  "descripcion": "cool",
+  "gustos": [
+    "futbol",
+    "musica",
+    "pintura",
+    "cine",
+    "literatura"
+  ]
+}
